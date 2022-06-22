@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128831527126",
+    "project_id": "authubi-a3d25",
+    "storage_bucket": "authubi-a3d25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128831527126:android:7a0d2f89d477dd7e189177",
+        "android_client_info": {
+          "package_name": "com.example.authubi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128831527126-776ckmhh30tidqg5cfnbhhpu8g8d7uoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHBQBVXroQvSz_4NxmzaYC8YZ7mHbLZ-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128831527126-776ckmhh30tidqg5cfnbhhpu8g8d7uoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
